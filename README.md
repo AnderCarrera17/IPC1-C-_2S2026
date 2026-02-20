@@ -15,3 +15,11 @@ Controlar a **PAC-MAN** (`<`) para recolectar **TODOS los premios** del tablero 
 - **Fantasmas (`@`)**, Quitan 1 vida al contacto
 
 **Ganas** si recolectas todos los premios. **Pierdes** si te quedas sin vidas.
+## COMO EJECUTAR EL JUEGO
+- Descargar el archivo PacmanGame.java
+- Abrir CMD en el sistema operativo
+- Ejecutar el comando cd con la ruta donde se guardo el archivo descargado anteriormente
+- Ejecutar el comando dir para confirmar que el archivo este dentro de la carpeta
+- Ejecutar el comando javac PacmanGame.java para compilar el codigo de java
+- Ejecuta el juego con el comando java PacmanGame
+- Disfruta del juego
