@@ -16,10 +16,9 @@ Controlar a **PAC-MAN** (`<`) para recolectar **TODOS los premios** del tablero 
 
 **Ganas** si recolectas todos los premios. **Pierdes** si te quedas sin vidas.
 ## COMO EJECUTAR EL JUEGO
-- Descargar el archivo PacmanGame.java
-- Abrir CMD en el sistema operativo
-- Ejecutar el comando cd con la ruta donde se guardo el archivo descargado anteriormente
-- Ejecutar el comando dir para confirmar que el archivo este dentro de la carpeta
-- Ejecutar el comando javac PacmanGame.java para compilar el codigo de java
-- Ejecuta el juego con el comando java PacmanGame
+- En este repositorio busca la carpeta dist y descargar el archivo Practica1_Pac.jar
+- Designa una carpeta para guardar el archivo 
+- Ejecuta CMD en el sistema operativo
+- Ejecuta el comando cd con la ruta de la carpeta en donde guardaste el archivo de descarga
+- Ejecuta el comando java -jar Practica1_Pac.jar
 - Disfruta del juego
